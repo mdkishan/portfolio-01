@@ -1,9 +1,18 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;;
 }
 h1 {
     font-size: 50px;
 }
 .name {
     color: tomato;
+}
+.half-width {
+    width: 40%;
+    margin: 30px;
+    padding: 35px;
+    float: left;
+}
+.half-width img {
+    width: 100%;
 }
